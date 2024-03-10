@@ -7,12 +7,4 @@ export const Container = styled.div`
   margin-right: auto;
   padding-left: 15px;
   padding-right: 15px;
-  background-image: linear-gradient(
-      rgba(255, 255, 255, 0.3),
-      rgba(255, 255, 255, 0.3)
-    ),
-    url(${homePageCar});
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
 `;
