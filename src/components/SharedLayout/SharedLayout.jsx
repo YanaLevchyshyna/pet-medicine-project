@@ -16,8 +16,8 @@ export const SharedLayout = () => {
           <HeaderContainer>
             <nav>
               <Link to="/">Home</Link>
-              <Link to="catalog">Shopping Cart</Link>
-              <Link to="favorites">History</Link>
+              <Link to="shoppingCart">Shopping Cart</Link>
+              <Link to="history">History</Link>
             </nav>
           </HeaderContainer>
         </Container>

@@ -15,8 +15,7 @@ function Home() {
                 fontFamily: 'Anta',
               }}
             >
-              Faster, easier, stylish - feel the freedom <br /> with our Car
-              Rental service!
+              This is Home page!!!
             </h1>
           </div>
         </Container>
