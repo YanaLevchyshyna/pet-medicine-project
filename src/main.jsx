@@ -5,10 +5,11 @@ import { ThemeProvider } from '@emotion/react';
 import { BrowserRouter } from 'react-router-dom';
 
 import './index.css';
+import { theme } from '../src/constants/Theme';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="/test-task-medicine-project">
+    <BrowserRouter basename="/pet-medicine-project">
       <ThemeProvider theme={theme}>
         <App />
       </ThemeProvider>

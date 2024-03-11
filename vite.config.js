@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react-swc';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/test-task-medicine-project',
+  base: '/pet-medicine-project',
   plugins: [react()],
 });
