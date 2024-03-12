@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Aspirin",
+    "price": 25.99
+  },
+  {
+    "name": "Paracetamol",
+    "price": 30.5
+  },
+  {
+    "name": "Ibuprofen",
+    "price": 45.75
+  },
+  {
+    "name": "Cetirizine",
+    "price": 15.2
+  },
+  {
+    "name": "Omeprazole",
+    "price": 55.9
+  },
+  {
+    "name": "Amoxicillin",
+    "price": 38.25
+  },
+  {
+    "name": "Atorvastatin",
+    "price": 65.4
+  },
+  {
+    "name": "Losartan",
+    "price": 40.15
+  },
+  {
+    "name": "Albuterol",
+    "price": 22.8
+  },
+  {
+    "name": "Levothyroxine",
+    "price": 18.75
+  },
+  {
+    "name": "Loratadine",
+    "price": 12.6
+  }
+]
