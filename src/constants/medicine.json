@@ -1,46 +1,56 @@
 [
   {
-    "name": "Aspirin",
-    "price": 25.99
+    "name": "Biotyn",
+    "price": 146.8,
+    "image": ""
   },
   {
-    "name": "Paracetamol",
-    "price": 30.5
+    "name": "Helpex",
+    "price": 704.2,
+    "image": ""
   },
   {
-    "name": "Ibuprofen",
-    "price": 45.75
+    "name": "Supradyn",
+    "price": 308.3,
+    "image": ""
   },
   {
-    "name": "Cetirizine",
-    "price": 15.2
+    "name": "Termidol",
+    "price": 75.9
   },
   {
-    "name": "Omeprazole",
-    "price": 55.9
+    "name": "Magnikum-antystress",
+    "price": 258.7,
+    "image": ""
   },
   {
     "name": "Amoxicillin",
-    "price": 38.25
+    "price": 38.25,
+    "image": ""
   },
   {
     "name": "Atorvastatin",
-    "price": 65.4
+    "price": 65.4,
+    "image": ""
   },
   {
     "name": "Losartan",
-    "price": 40.15
+    "price": 40.15,
+    "image": ""
   },
   {
     "name": "Albuterol",
-    "price": 22.8
+    "price": 22.8,
+    "image": ""
   },
   {
     "name": "Levothyroxine",
-    "price": 18.75
+    "price": 18.75,
+    "image": ""
   },
   {
     "name": "Loratadine",
-    "price": 12.6
+    "price": 12.6,
+    "image": ""
   }
 ]
